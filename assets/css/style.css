@@ -1123,3 +1123,9 @@ h1.category-title {
 	font-size: 40px;
 	padding-top: 30px;
 }
+
+.coming-soon {
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+}
