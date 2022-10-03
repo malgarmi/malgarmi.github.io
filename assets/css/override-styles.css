@@ -1,0 +1,94 @@
+body::before{
+	content: '';
+	background-image: url(../images/backgrounds/halloween.jpg);
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	opacity: 0.3;
+	z-index: -1;
+}
+
+.secpadding {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+
+.news-box {
+	padding-bottom: 50px;
+}
+
+.header-container {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+
+h1.category-title {
+	font-size: 65px;
+	font-family: 'Open Sans';
+}
+
+.article-row {
+	margin-bottom: 40px;
+}
+
+.article-detail-frame {
+	width: 100%;
+	height: 80vh;
+}
+
+.read-article-subhead {
+	height: 60px !important;
+}
+
+.back-button {
+	display: block;
+	font-size: 40px;
+	padding-top: 15px;
+}
+
+.coming-soon {
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+}
+
+
+.navbar-inverse {
+	padding: 0;
+	display: flex;
+	align-items: center;
+}
+
+.navbar-collapse.collapse {
+	display: flex !important;
+	align-items: center;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	font-size: 20px !important;
+}
+
+.navbar-inverse .navbar-brand {
+	margin: 0;
+	height: auto;
+	line-height: normal;
+	padding: 0;
+}
+.navbar-inverse .navbar-brand img {
+	margin: 0;
+	width: 135px;
+}
+
+.navbar-header {
+	display: flex;
+	align-items: center;
+}
+
+.back-button-image {
+	width: 70px;
+	border-radius: 50%;
+}
