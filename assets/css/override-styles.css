@@ -92,3 +92,9 @@ h1.category-title {
 	width: 70px;
 	border-radius: 50%;
 }
+
+.separator {
+	text-align: center;
+	font-style: italic;
+	margin: 10px 0px;
+}
