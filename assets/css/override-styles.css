@@ -1,6 +1,7 @@
 body::before{
 	content: '';
 	background-image: url(../images/backgrounds/winter.jpg);
+        background-position: center center;
 	position: fixed;
 	top: 0;
 	left: 0;
