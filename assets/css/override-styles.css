@@ -1,6 +1,6 @@
 body::before{
 	content: '';
-	background-image: url(../images/backgrounds/background.jpg);
+	background-image: url(../images/backgrounds/spring.avif);
         background-position: center center;
 	position: fixed;
 	top: 0;
